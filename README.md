@@ -16,4 +16,4 @@ Project is created with:
 * JavaScript
 
 ## Sample
-<img src="./src/img/demo.png"/>
+<img src="./assets/img/demo.png"/>
